@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+ 
+
+.catering-container {
+    margin: 112px 0px;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.3em;
+    padding: 12px;
+}
+
+.para-class {
+    padding: 2px 1px;
+    font-family: sans-serif;
+
+}
+
+.btn:hover {
+    color: rebeccapurple;
+    background: lightgray;
+}

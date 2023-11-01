@@ -1,0 +1,84 @@
+/* Form CSS  */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+
+    margin: 97px 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.h-secondry {
+    margin: 6px;
+    font-size: 3.2em;
+}
+
+.para-class {
+    margin: 8px;
+    font-size: 20px;
+}
+
+.form-group {
+    padding: 6px 9px;
+    margin: 11px 10px;
+}
+
+.form-group input {
+    border-radius: 10px;
+    margin: 2px 4px;
+    padding: 12px 10px;
+    width: 30vw;
+    font-size: 1.2rem;
+
+    font-weight: bold;
+}
+
+.form-group label {
+    font-size: 23px;
+}
+
+.check-box {
+    margin: 2px 12px;
+    padding: 1px 3px;
+    font-size: 17px;
+
+}
+
+.button {
+    margin: 5px 151px;
+}
+
+.btn-s {
+    font-family: cursive;
+    margin: 4px 12px;
+    padding: 4px 8px;
+    border-radius: 18px;
+    color: white;
+    background-color: #4c52b7;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.btn-s:hover {
+    background-color: white;
+    color: #4c52b7;
+}
+
+.showAlert {
+    background-color: lightblue;
+    font-size: 23px;
+    height: 35px;
+    padding: 12px;
+}
+
+.showErr {
+    background-color: #d5453b;
+    font-size: 23px;
+    height: 35px;
+    padding: 12px;
+}
